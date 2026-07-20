@@ -27,8 +27,9 @@ Committee Choices:
 Portfolio Contents:
 - Story → My personal growth journey (from shy student to Top 3 achiever, proving resilience and adaptability).  
 - Leadership → Capstone project experience as assistant leader, where I managed the initial product and all tech responsibilities alone.  
-- Proof → Photos and evidence from my capstone project, showing the actual work I contributed.  
+- Experience → LV Science Club involvement, showing organizational participation and communication skills.  
 - Vision → Statement about how I’ll use CPI to build connections, strengthen communication, and represent the org.  
+
 
 
 ---
